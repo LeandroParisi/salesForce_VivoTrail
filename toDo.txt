@@ -1,1 +1,11 @@
 1. Colocar progresso do Trailhead no LinkedIn 
+
+
+Perguntas:
+1. Como setar o en como padrão na URL?
+2. Tem que ficar nesse troca troca de user management settings?
+3. o que ele falou sobre pegar na pratica e sair da teoria...
+4. Impossível decorar tudo, como faz? (pergunta da lais na call passada)
+5. resumir a interação entre os tipos de permissões.
+6. Role hierarchy não seria a primeira coisa a se fazer?
+
